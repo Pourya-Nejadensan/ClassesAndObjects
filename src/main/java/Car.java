@@ -3,4 +3,8 @@ public class Car {
     String Model;
     String Color;
     int Year;
+
+    public String starts(){
+        return "Started!";
+    }
 }
